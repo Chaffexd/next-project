@@ -15,10 +15,6 @@ node_modules/
 .idea/
 *.iml
 
-# Compiled JavaScript
-*.js
-*.js.map
-
 # Log files
 *.log
 logs/
